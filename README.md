@@ -13,7 +13,7 @@ Projekt stanowi klon gry PacMan napisany w języku C++. Gracz steruje postacią 
 ## Dokumentacja techniczna
 Pełna dokumentacja klas, metod oraz struktury projektu dostępna jest pod poniższym adresem:
 
-[Link do dokumentacji online](https://macz335.github.io/PacMan-clone/html/index.html)
+[Link do dokumentacji online]([https://macz335.github.io/PacMan-clone/html/index.html])
 
 ## Technologie
 * Język: C++
