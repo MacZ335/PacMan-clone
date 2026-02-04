@@ -1,22 +1,22 @@
- PacMan Clone - Projekt C++ (OOP)
+# PacMan Clone - Projekt C++ (OOP)
 
 Klasyczna implementacja gry PacMan stworzona w ramach nauki programowania obiektowego.
 
- O projekcie
-Jest to klon gry PacMan napisany w języku C++. Gracz steruje postacią w labiryncie, zbierając punkty i unikając duchów. 
+## Opis projektu
+Projekt stanowi klon gry PacMan napisany w języku C++. Gracz steruje postacią w labiryncie, a jego głównym celem jest zbieranie punktów przy jednoczesnym unikaniu przeciwników (duchów). 
 
-Główne cechy:
- Implementacja logiki ruchu i kolizji.
- Algorytmy zachowania duchów (losowe/celowe).
- Obsługa grafiki i mapy.
- Dokumentacja techniczna wygenerowana za pomocą Doxygen.
+## Główne cechy
+* Logika i kolizje: Implementacja systemu poruszania się oraz wykrywania kolizji z elementami otoczenia.
+* Algorytmy AI: Różnorodne zachowania duchów, obejmujące zarówno ruch losowy, jak i algorytmy śledzenia gracza.
+* Obsługa grafiki i mapy: System renderowania elementów graficznych oraz zarządzanie strukturą labiryntu.
+* Dokumentacja: Kod źródłowy został udokumentowany przy użyciu standardu Doxygen.
 
-  Dokumentacja Techniczna
-Pełna dokumentacja klas i metod jest dostępna online jako strona WWW:
- [**KLIKNIJ TUTAJ, ABY OTWORZYĆ DOKUMENTACJĘ**]([macz335.github.io/PacMan-clone/))
+## Dokumentacja techniczna
+Pełna dokumentacja klas, metod oraz struktury projektu dostępna jest pod poniższym adresem:
 
+[Link do dokumentacji online](https://macz335.github.io/PacMan-clone/html/index.html)
 
- Technologie
-Język: C++
-Środowisko: Visual Studio
-Dokumentacja: Doxygen
+## Technologie
+* Język: C++
+* Środowisko: Visual Studio
+* Dokumentacja: Doxygen
