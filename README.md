@@ -8,7 +8,6 @@ Projekt stanowi klon gry PacMan napisany w języku C++. Gracz steruje postacią 
 ## Główne cechy
 * Logika i kolizje: Implementacja systemu poruszania się oraz wykrywania kolizji z elementami otoczenia.
 * Algorytmy AI: Różnorodne zachowania duchów, obejmujące zarówno ruch losowy, jak i algorytmy śledzenia gracza.
-* Obsługa grafiki i mapy: System renderowania elementów graficznych oraz zarządzanie strukturą labiryntu.
 * Dokumentacja: Kod źródłowy został udokumentowany przy użyciu standardu Doxygen.
 
 ## Dokumentacja techniczna
